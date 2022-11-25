@@ -22,31 +22,31 @@ TextureImporter:
     second: run_5
   - first:
       213: 21300012
-    second: SuperSoyBoySpriteSheet_6
+    second: run_6
   - first:
       213: 21300014
-    second: SuperSoyBoySpriteSheet_7
+    second: run_7
   - first:
       213: 21300016
-    second: SuperSoyBoySpriteSheet_8
+    second: run_8
   - first:
       213: 21300018
-    second: SuperSoyBoySpriteSheet_9
+    second: run_9
   - first:
       213: 21300020
-    second: SuperSoyBoySpriteSheet_10
+    second: run_10
   - first:
       213: 21300022
-    second: SuperSoyBoySpriteSheet_11
+    second: run_11
   - first:
       213: 21300024
-    second: SuperSoyBoySpriteSheet_12
+    second: run_12
   - first:
       213: 21300026
-    second: SuperSoyBoySpriteSheet_13
+    second: run_13
   - first:
       213: 21300028
-    second: SuperSoyBoySpriteSheet_14
+    second: run_14
   - first:
       213: 21300030
     second: jump_1
@@ -67,31 +67,31 @@ TextureImporter:
     second: jump_6
   - first:
       213: 21300042
-    second: SuperSoyBoySpriteSheet_21
+    second: jump_7
   - first:
       213: 21300044
-    second: SuperSoyBoySpriteSheet_22
+    second: jump_8
   - first:
       213: 21300046
-    second: SuperSoyBoySpriteSheet_23
+    second: jump_9
   - first:
       213: 21300048
-    second: SuperSoyBoySpriteSheet_24
+    second: jump_10
   - first:
       213: 21300050
-    second: SuperSoyBoySpriteSheet_25
+    second: jump_11
   - first:
       213: 21300052
-    second: SuperSoyBoySpriteSheet_26
+    second: jump_12
   - first:
       213: 21300054
-    second: SuperSoyBoySpriteSheet_27
+    second: jump_13
   - first:
       213: 21300056
-    second: SuperSoyBoySpriteSheet_28
+    second: jump_14
   - first:
       213: 21300058
-    second: SuperSoyBoySpriteSheet_29
+    second: jump_15
   - first:
       213: 21300060
     second: slide_0
@@ -292,7 +292,7 @@ TextureImporter:
       name: run_5
       rect:
         serializedVersion: 2
-        x: 240
+        x: 239
         y: 80
         width: 48
         height: 40
@@ -310,7 +310,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_6
+      name: run_6
       rect:
         serializedVersion: 2
         x: 288
@@ -331,10 +331,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_7
+      name: run_7
       rect:
         serializedVersion: 2
-        x: 336
+        x: 337
         y: 80
         width: 48
         height: 40
@@ -352,7 +352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_8
+      name: run_8
       rect:
         serializedVersion: 2
         x: 384
@@ -373,7 +373,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_9
+      name: run_9
       rect:
         serializedVersion: 2
         x: 432
@@ -394,7 +394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_10
+      name: run_10
       rect:
         serializedVersion: 2
         x: 480
@@ -415,7 +415,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_11
+      name: run_11
       rect:
         serializedVersion: 2
         x: 528
@@ -436,7 +436,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_12
+      name: run_12
       rect:
         serializedVersion: 2
         x: 576
@@ -457,7 +457,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_13
+      name: run_13
       rect:
         serializedVersion: 2
         x: 624
@@ -478,7 +478,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_14
+      name: run_14
       rect:
         serializedVersion: 2
         x: 672
@@ -523,8 +523,8 @@ TextureImporter:
       name: jump_2
       rect:
         serializedVersion: 2
-        x: 48
-        y: 40
+        x: 47
+        y: 41
         width: 48
         height: 40
       alignment: 0
@@ -587,7 +587,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 40
+        y: 42
         width: 48
         height: 40
       alignment: 0
@@ -608,7 +608,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 240
-        y: 40
+        y: 42
         width: 48
         height: 40
       alignment: 0
@@ -625,7 +625,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_21
+      name: jump_7
       rect:
         serializedVersion: 2
         x: 288
@@ -646,7 +646,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_22
+      name: jump_8
       rect:
         serializedVersion: 2
         x: 336
@@ -667,10 +667,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_23
+      name: jump_9
       rect:
         serializedVersion: 2
-        x: 384
+        x: 379
         y: 40
         width: 48
         height: 40
@@ -688,11 +688,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_24
+      name: jump_10
       rect:
         serializedVersion: 2
         x: 432
-        y: 40
+        y: 41
         width: 48
         height: 40
       alignment: 0
@@ -709,7 +709,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_25
+      name: jump_11
       rect:
         serializedVersion: 2
         x: 480
@@ -730,7 +730,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_26
+      name: jump_12
       rect:
         serializedVersion: 2
         x: 528
@@ -751,11 +751,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_27
+      name: jump_13
       rect:
         serializedVersion: 2
         x: 576
-        y: 40
+        y: 41
         width: 48
         height: 40
       alignment: 0
@@ -772,10 +772,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_28
+      name: jump_14
       rect:
         serializedVersion: 2
-        x: 624
+        x: 623
         y: 40
         width: 48
         height: 40
@@ -793,7 +793,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SuperSoyBoySpriteSheet_29
+      name: jump_15
       rect:
         serializedVersion: 2
         x: 672
