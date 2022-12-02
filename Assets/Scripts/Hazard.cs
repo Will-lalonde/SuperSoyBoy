@@ -15,7 +15,7 @@ public class Hazard : MonoBehaviour
 
     // Use this for initialization
     void Start () {
-	
+	//cool
 	}
 
     void OnCollisionEnter2D(Collision2D coll)
