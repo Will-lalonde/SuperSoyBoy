@@ -36,7 +36,7 @@ public class SoyBoyController : MonoBehaviour
 
     // Use this for initialization
     void Start () {
-	
+	//cool
 	}
 
     void PlayAudioClip(AudioClip clip)
